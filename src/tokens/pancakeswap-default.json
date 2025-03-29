@@ -102,5 +102,13 @@
     "chainId": 56,
     "decimals": 18,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
-  }
+  },
+  {
+  "name": "RiffCoin",
+  "symbol": "RFC",
+  "address": "0x4aefffac033672a030777fbe8da2a0e09a02ae56",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://riffcoin.ca/logo.png"
+}
 ]
